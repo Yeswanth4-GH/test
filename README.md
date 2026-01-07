@@ -1,4 +1,4 @@
-# Skill Exchange Platform
+# Peer2Peer
 
 ## 📌 Description
 A university-based skill exchange platform where students can
